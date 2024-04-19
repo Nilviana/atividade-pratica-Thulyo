@@ -1,0 +1,42 @@
+.container{
+    background-color: rgb(240, 236, 204);
+
+    
+
+}
+.text-center{
+    
+font-size: smaller;color: rgb(240, 234, 234);
+    
+}
+footer{
+    display: block;
+
+}
+footer p {
+    font-size: small;color: black;
+    
+    
+}
+footer a {
+    margin: 20px; 
+
+}
+footer img {
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+.card img{
+    padding: 20px;
+    margin-top: 20px;
+}
+.card-body{
+    background-color: rgb(158, 156, 61);
+}
+    .container-cards{
+        padding: 20px;
+        padding-bottom: 20px;
+    }
+
+
